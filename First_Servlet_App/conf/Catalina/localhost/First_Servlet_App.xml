@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="D:/1_VERY_VERY_DEV/Genie_Course/Java_Code/First_Servlet_App/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="D:/1_VERY_VERY_DEV/Genie_Course/Java_Code/First_Servlet_App/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="D:/1_VERY_VERY_DEV/Genie_Course/apache-tomcat-9.0.86/lib/servlet-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api.jar"/>
+  </Resources>
+</Context>

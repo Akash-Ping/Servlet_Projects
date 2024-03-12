@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:48:07 +0530] "GET /First_Servlet_App HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:48:08 +0530] "GET /First_Servlet_App/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:48:13 +0530] "GET /First_Servlet_App/demo HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:48:18 +0530] "GET /First_Servlet_App/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:48:20 +0530] "GET /Servlet_Second/demo HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:53:28 +0530] "GET /First_Servlet_App HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:53:29 +0530] "GET /First_Servlet_App/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [12/Mar/2024:22:53:35 +0530] "GET /First_Servlet_App/test HTTP/1.1" 200 52
