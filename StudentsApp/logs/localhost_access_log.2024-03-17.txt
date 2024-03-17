@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:21 +0530] "GET /StudentsApp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:21 +0530] "GET /StudentsApp/ HTTP/1.1" 200 2391
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:21 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:24 +0530] "POST /StudentsApp/StudentServlet HTTP/1.1" 200 319
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:26 +0530] "GET /StudentsApp/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:33 +0530] "POST /StudentsApp/StudentServlet HTTP/1.1" 200 350
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:35 +0530] "GET /StudentsApp/result HTTP/1.1" 200 495
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:42 +0530] "GET /StudentsApp/? HTTP/1.1" 200 2391
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:44 +0530] "POST /StudentsApp/StudentServlet HTTP/1.1" 200 319
+0:0:0:0:0:0:0:1 - - [17/Mar/2024:13:06:46 +0530] "GET /StudentsApp/ HTTP/1.1" 304 -
